@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_card_balance"
+        android:icon="@drawable/card_1"
+        android:title="Check your card balance"/>
+
+    <!-- Divider -->
+    <group android:id="@+id/group_divider">
+        <!-- Automatically adds a divider -->
+    </group>
+
+    <item
+        android:id="@+id/nav_about"
+        android:icon="@drawable/info"
+        android:title="About"/>
+</menu>

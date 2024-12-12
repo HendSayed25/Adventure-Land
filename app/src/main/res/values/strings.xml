@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Adventure Land</string>
+    <string name="logo_description">ADVENTURE LAND</string>
+    <string name="welcome_back">Welcome back!</string>
+    <string name="login_to_your_account">Login to your account</string>
+    <string name="phone_number">Phone number</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="google_login">Google Login</string>
+    <string name="facebook_login">Facebook Login</string>
+    <string name="twitter_login">Twitter Login</string>
+    <string name="dont_have_account_signup">Don’t have an account? Sign up</string>
+    <string name="welcome">Welcome!</string>
+    <string name="create_your_account">Create your account</string>
+    <string name="name">Name</string>
+    <string name="sign_up">Sign up</string>
+    <string name="already_have_account_login">Already have an account? Log in</string>
+    <string name="app_logo">Adventure Land Logo</string>
+    <string name="go_back"><![CDATA[<]]></string>
+    <string name="go_forward"><![CDATA[>]]></string>
+    <string name="navigation_drawer_open">Open drawer</string>
+    <string name="navigation_drawer_close">Close drawer</string>
+    <string name="nav_card_balance">Check your card balance</string>
+    <string name="nav_about">About</string>
+
+</resources>
