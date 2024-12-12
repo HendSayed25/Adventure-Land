@@ -7,4 +7,6 @@
     <color name="yellow">#F7B801</color>
     <color name="gray">#EAEAEA</color>
     <color name="lightPurple">#7678ED</color>
+    <color name="colorOfLine">#EAEAEA</color>
+    <color name="colorTextOfNeedLogin">#606060</color>
 </resources>
